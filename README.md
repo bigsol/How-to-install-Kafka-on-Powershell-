@@ -20,7 +20,7 @@
 <hr>
 <p>Validating the instillation</p>
 <ul>
-<li>Get-KafkaTopics -BrokerList xx.xxx.xx.xxx:9092 -Verbose VERBOSE: C:\pskafka-master\pskafka-master\bin\win\kafkacat.exe -b xx.xxx.xx.xxx:9092 -L__consumer_offsets</li>
+<li>Get-KafkaTopics -BrokerList xx.xxx.xx.xxx:9092 -Verbose </li>
 </ul>
 
 <hr>
