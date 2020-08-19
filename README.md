@@ -37,7 +37,7 @@
 <li>PS C:\pskafka-master> Read-KafkaTopic -TopicName 'test5' -BrokerList 'xx.xxx.xx.xxx:9092' -MessageCount 1000 -FromBeginning -Verbose VERBOSE: D:\Navin\pskafka-master\bin\win\kafkacat.exe -b xx.xxx.xx.xxx:9092 -q -u -o beginning -c 1000 -e -C -t test5</li>
 </ul>
 
-hr>
+<hr>
 <p># List all commands in the `pskafka` module.</p>
 <ul>
  <li>PS C:\pskafka-master> Get-Command -Module pskafka</li>
