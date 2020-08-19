@@ -10,7 +10,7 @@
 <hr>
 <p>Installation Process</p>
 <ul>
-<li>Download file pskafka-master</li>
+<li>Download file pskafka-master.rar</li>
 <li>UnRAR file to C:\Folder (PS C:\pskafka-master> )</li>
 <li>Install-Module -Name 'ThreadJob'</li>
 <li>Import-Module .\pskafka.psd1</li>
