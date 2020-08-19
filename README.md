@@ -6,7 +6,9 @@
 <li>Powershell Version needs to be 5 or ahead of it.</li>
 <li>Admin access to run commands on powershell cmd</li>
 <li>kafka broker list , this goes with default port of 9092</li>
+<hr>
 
-<p>Install processe</p>
+
+
 
 
