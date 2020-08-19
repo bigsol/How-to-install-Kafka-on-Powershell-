@@ -40,9 +40,5 @@
 hr>
 <p># List all commands in the `pskafka` module.</p>
 <ul>
- <li>PS C:\pskafka-master> Get-Command -Module pskafka.</li>
+ <li>PS C:\pskafka-master> Get-Command -Module pskafka</li>
  </ul>
- 
- 
- 
-Get-Command -Module pskafka
